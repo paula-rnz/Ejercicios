@@ -1,4 +1,4 @@
-package Ejercicios;
+package grupales;
 
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -90,7 +90,6 @@ public class Grupal_9 {
 	        }while (cantidadAsistentes < 0 );
 	        capacitaciones.add("Cantidad Asistentes: "+ cantidadAsistentes);
 	        
-xsaxasxas
 
 	        String nombreAsistentes;
 	        int edadAsistentes;
