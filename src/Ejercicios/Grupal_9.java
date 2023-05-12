@@ -90,7 +90,7 @@ public class Grupal_9 {
 	        }while (cantidadAsistentes < 0 );
 	        capacitaciones.add("Cantidad Asistentes: "+ cantidadAsistentes);
 	        
-
+xsaxasxas
 
 	        String nombreAsistentes;
 	        int edadAsistentes;
@@ -116,7 +116,7 @@ public class Grupal_9 {
 		        	if(edadAsistentes>=26 && edadAsistentes<=35) {
 		        		entre26a35++;
 		        	}
-		        	if (edadAsistentes>=35) {
+		        	if (edadAsistentes>35) {
 		        		mayor35++;
 		        	}
 			        
