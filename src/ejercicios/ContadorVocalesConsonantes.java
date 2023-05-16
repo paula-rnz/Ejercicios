@@ -1,4 +1,4 @@
-package Ejercicios;
+package ejercicios;
 
 import java.util.Scanner;
 
@@ -32,3 +32,5 @@ public class ContadorVocalesConsonantes {
         System.out.println("Cantidad de consonantes: " + consonantes);
     }
 }
+
+
